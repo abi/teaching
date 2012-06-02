@@ -1,4 +1,1 @@
-teaching
-========
-
-Resources I've used for teaching.
+A collection of resources I've used for teaching.
