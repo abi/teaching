@@ -1,0 +1,1 @@
+cat yahtzee.py | grep -v '#' | grep -v -e '^[[:space:]]*$' > yahtzee-nc.py
